@@ -1,7 +1,7 @@
 ## Year in college:3
 
 
-## Computing experience:a bit of R  
+## Computing experience:beginner level in R  
 
 
 ## Mention a topic from biology or any other field that interest you:micrbiology  

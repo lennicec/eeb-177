@@ -1,6 +1,6 @@
 # My Favorite Animal  
 ***Rossia pacifica***  
-Interesting facts are that they:  
+A few interesting facts are that they:  
 1. are native to the northern Pacific Ocean  
 2. are related to cuttlefish  
 3. breed in the winter    
